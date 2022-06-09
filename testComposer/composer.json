@@ -1,0 +1,18 @@
+{
+    "name": "xiaoyuadmin/support",
+    "description": "test xiaoyu composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Xiaoyuadmin\\Support\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Water Melon",
+            "email": "chengxiguode@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
